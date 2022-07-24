@@ -1,6 +1,8 @@
 # Survival-Prediction
 
 It is a Survival Prediction model, it is used to predict wether a person will be able to survive from a sinking ship or not.
+
+
 Here I have used Logistic Regression to predict
 I Have manually implemented the logistic regression
 Then I have compared the value of final prediction using my manually implemented Logistic regression and Logistic Regression imported from sklean
