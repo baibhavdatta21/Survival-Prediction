@@ -1,8 +1,7 @@
 # Survival-Prediction
 
 
-
-![image](https://user-images.githubusercontent.com/90207953/180640750-d5d615da-098b-46ce-a5b1-9873f3b0cf70.png)
+![image](https://user-images.githubusercontent.com/90207953/180640793-c120f88e-ae8c-4bd8-b181-b9b65fb03f8b.png)
 
 It is a Survival Prediction model, it is used to predict wether a person will be able to survive from a sinking ship or not.
 
